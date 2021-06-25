@@ -4,7 +4,7 @@ title: "Cement tile"
 description: "We are those who love and preserve Vietnamese culture, we had concerns and looked for a way to recover traditional cement tile products."
 logo: 'assets/images/logo dai.png'
 favicon: 'assets/images/logo cts1.png'
-baseurl: /cementtileblog
+baseurl: /blogcementtile
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 include: ["_pages"]
